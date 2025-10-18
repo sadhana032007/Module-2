@@ -20,7 +20,7 @@ b=int(input())
 result(a,b)
 
 ## Output
-<img width="1913" height="510" alt="Screenshot 2025-10-18 225154" src="https://github.com/user-attachments/assets/c57f7ad6-74c6-43b1-9563-6d1be9059f13" />
+<img width="1913" height="510" alt="Screenshot 2025-10-18 225154" src="https://github.com/user-attachments/assets/b4bb61f9-5085-41f3-8f47-adf1105d16bc" />
 
 ## Result
 The Functions in Python : Modulo Calculator is executed successfully.
