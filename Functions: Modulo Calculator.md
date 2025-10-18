@@ -18,6 +18,7 @@ def result(a,b):
 a=int(input())
 b=int(input())
 result(a,b)
+```
 
 ## Output
 <img width="1036" height="313" alt="Screenshot 2025-10-18 225505" src="https://github.com/user-attachments/assets/8f53d290-ea55-40fa-a25c-fe7f7e5a7ac3" />
